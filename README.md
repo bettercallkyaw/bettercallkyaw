@@ -34,7 +34,7 @@ Since 2019 I've been living and breathing web development and creating modern an
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/htin-kyaw-36a74819a//)](https://www.linkedin.com/in/htin-kyaw-36a74819a//)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/htinkya94809502)](https://twitter.com/htinkya94809502)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/htin-kyaw-36a74819a/)](https://www.linkedin.com/in/htin-kyaw-36a74819a/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/htinkya94809502)](https://twitter.com/htinkya94809502)
 
 
 
